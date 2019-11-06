@@ -6,6 +6,8 @@
 
 ![JWT-Debugger](https://i.loli.net/2019/11/07/RDl7uVMA3tnsJo8.png)
 
+**注意: JWT Token 语法高亮需要 AntSword >= 2.1.7.2**
+
 ## 安装
 
 ### 商店安装
