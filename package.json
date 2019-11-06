@@ -1,0 +1,25 @@
+{
+  "name": "JWT 调试",
+  "name_en": "JWT-Debugger",
+  "main": "index.js",
+  "icon": "bug",
+  "version": "0.1",
+  "description": "Json Web Token 解密、签名",
+  "description_en": "JsonWebToken encode/decode",
+  "author": {
+    "name": "user",
+    "email": "user@u0u.us"
+  },
+  "category": "辅助工具",
+  "category_en": "Support",
+  "multiple": false,
+  "scripts": [
+    "php",
+    "asp",
+    "aspx",
+    "custom"
+  ],
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
