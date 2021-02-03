@@ -3,7 +3,7 @@
   "name_en": "JWT-Debugger",
   "main": "index.js",
   "icon": "bug",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Json Web Token 解密、签名",
   "description_en": "JsonWebToken encode/decode",
   "author": {
@@ -14,9 +14,12 @@
   "category_en": "Support",
   "multiple": false,
   "scripts": [
+    "*",
     "php",
+    "php4",
     "asp",
     "aspx",
+    "jsp",
     "custom"
   ]
 }
